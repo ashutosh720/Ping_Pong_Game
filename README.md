@@ -5,6 +5,8 @@ A JAVA based Ping-Pong game
 
 Java Ping Pong Game is a simple implementation of the classic ping pong game using Java Swing for the graphical interface.
 
+https://github.com/ashutosh720/Ping_Pong_Game/blob/master/PING-PONG_REC.mp4
+
 ## Features
 
 - Dual-player mode.
