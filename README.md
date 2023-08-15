@@ -1,8 +1,7 @@
 # Ping_Pong_Game
 A JAVA based Ping-Pong game
 
-![Ping Pong Game](https://github.com/ashutosh720/Ping_Pong_Game/assets/112875409/c8e5b0e1-ddae-45d9-bb0f-5b121b52ecd3)
-
+![image](https://github.com/ashutosh720/Ping_Pong_Game/assets/112875409/f612e14b-5000-40c6-a345-1d808f38a74e)
 
 Java Ping Pong Game is a simple implementation of the classic ping pong game using Java Swing for the graphical interface.
 
