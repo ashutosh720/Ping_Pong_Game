@@ -14,6 +14,10 @@ https://github.com/ashutosh720/Ping_Pong_Game/blob/master/PING-PONG_REC.mp4
 - Realistic ball physics and collision detection.
 - Score tracking  and reset conditions.
 
+## Demo
+
+Check out the demo clip of the game: [Ping Pong Game](https://github.com/ashutosh720/Ping_Pong_Game/blob/master/PING-PONG_REC.mp4)
+
 ## Getting Started
 
 ### Prerequisites
@@ -23,7 +27,7 @@ https://github.com/ashutosh720/Ping_Pong_Game/blob/master/PING-PONG_REC.mp4
 
 ### Installation
 
-1. Clone this repository (if you haven't already):
+1. Clone this repository:
 
    ```bash
    git clone https://github.com/ashutosh720/Ping_Pong_Game.git
